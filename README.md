@@ -31,7 +31,7 @@ Pong Game is a classic 2D arcade game created in Unity, offering both one-player
 ### One-Player Mode (Against AI)
 
 1. Choose the difficulty level (Easy, Medium, or Hard) on the "Choose Difficulty" screen.
-2. Control your paddle using [controls] and try to score 15 points to win the game.
+2. Control your paddle using [up and down arrow] and try to score 15 points to win the game.
 3. The AI opponent will challenge your skills, so be prepared for a dynamic game.
 
 ### Two-Player Mode
