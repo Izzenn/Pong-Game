@@ -26,6 +26,10 @@ Pong Game is a classic 2D arcade game created in Unity, offering both one-player
 - The first player to score 15 points wins in two-player mode.
 - Intuitive controls for paddle movement and ball direction.
 
+## Gameplay Video
+
+Check out the gameplay video on [YouTube](https://youtu.be/4jxF7Ow9m6o) to get a sneak peek of what Pong Game has to offer!
+
 ## How to Play
 
 ### One-Player Mode (Against AI)
