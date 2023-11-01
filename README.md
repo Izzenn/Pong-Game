@@ -8,7 +8,7 @@ Pong Game is a classic 2D arcade game created in Unity, offering both one-player
   ![Opening Screen](openingscreen.png)
 
 - Choose Difficulty
-  ![Choose Difficulty](choose_difficulty.png)
+  ![Choose Difficulty](choose difficulty.png)
   
 - Match
   ![Winner Screen](match_screen.png)
