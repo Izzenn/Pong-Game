@@ -32,7 +32,7 @@ Check out the gameplay video on [YouTube](https://youtu.be/4jxF7Ow9m6o) to get a
 
 ## How to Play
 
-### One-Player Mode (Against AI)
+### One-Player Mode 
 
 1. Choose the difficulty level (Easy, Medium, or Hard) on the "Choose Difficulty" screen.
 2. Control your paddle using [up and down arrow] and try to score 15 points to win the game.
